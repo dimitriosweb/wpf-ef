@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_EF", "WPF_EF\WPF_EF.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFirst", "AsyncFirst\AsyncFirst.csproj", "{5E271158-C0BC-4467-BCB1-2707F5996B59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBinding", "DataBinding\DataBinding.csproj", "{B09962AB-AF57-4315-95BA-D2C389C0BDC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5E271158-C0BC-4467-BCB1-2707F5996B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E271158-C0BC-4467-BCB1-2707F5996B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E271158-C0BC-4467-BCB1-2707F5996B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09962AB-AF57-4315-95BA-D2C389C0BDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09962AB-AF57-4315-95BA-D2C389C0BDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09962AB-AF57-4315-95BA-D2C389C0BDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09962AB-AF57-4315-95BA-D2C389C0BDC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
